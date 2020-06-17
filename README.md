@@ -2,4 +2,4 @@
 Simple asteroids game
 
 ## Live Demo
-https://rd-tran.github.io/ticTacToe/
+https://rd-tran.github.io/asteroids/
